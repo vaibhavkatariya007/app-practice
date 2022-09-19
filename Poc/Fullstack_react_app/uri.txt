@@ -1,0 +1,5 @@
+https://radiant-wildwood-93241.herokuapp.com/ |
+https://git.heroku.com/radiant-wildwood-93241.git
+
+connection string:
+mongodb://<dbuser>:<dbpassword>@ds259528.mlab.com:59528/emily

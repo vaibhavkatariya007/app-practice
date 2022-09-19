@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["blog"],{fd3f:function(t,a,s){"use strict";s.r(a);var e=function(){var t=this,a=t.$createElement,s=t._self._c||a;return s("div",{class:t.className},[s("section",{staticClass:"padding_30 padbot_45"},[s("app-title",{attrs:{label:"Blog"}}),s("p",{staticClass:"top_30"},[t._v("COMING SOON")])],1)])},l=[],n=s("fa2b"),p={props:{data:Object,className:String},components:{appTitle:n["a"]}},c=p,o=s("2877"),i=Object(o["a"])(c,e,l,!1,null,null,null);a["default"]=i.exports}}]);
+//# sourceMappingURL=blog-legacy.8379ed45.js.map
